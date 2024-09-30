@@ -2,6 +2,7 @@
 Nama : Mohamad Ariel Saputra D Loi, 2409116087
 
 ![Untitled Diagram-Page-1](https://github.com/user-attachments/assets/e012a6fa-af7b-4670-afb8-2862b1423f6e)
+
 langkah2nya adalah dari flowchart di atas :
 1. Mulai
 2. Meng inputkan nama,nim, tarif kerja dan jam kerja
